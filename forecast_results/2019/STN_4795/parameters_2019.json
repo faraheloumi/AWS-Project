@@ -1,0 +1,15 @@
+{
+    "WQI": 123.88751172861556,
+    "Dissolved Oxygen": 4.45,
+    "pH": 8.45,
+    "Conductivity": 1320.0,
+    "BOD": 5.25,
+    "Nitrate N + Nitrite N": 1.71,
+    "Fecal Coliform": 130.0,
+    "Total Coliform": 267.5,
+    "Location Name": "NELA TALAB",
+    "State Name": "RAJASTHAN",
+    "lat": 24.578721,
+    "lon": 73.6862571,
+    "processed_timestamp": "2024-11-27T09:47:07.187672"
+}

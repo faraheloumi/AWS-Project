@@ -1,0 +1,15 @@
+{
+    "WQI": 145.2890965695843,
+    "Dissolved Oxygen": 5.5,
+    "pH": 8.65,
+    "Conductivity": 1234.5,
+    "BOD": 4.5,
+    "Nitrate N + Nitrite N": 3.33,
+    "Fecal Coliform": 1400.0,
+    "Total Coliform": 6400.0,
+    "Location Name": "HEBBAL LAKE",
+    "State Name": "KARNATAKA",
+    "lat": 13.04720245,
+    "lon": 77.5867146856506,
+    "processed_timestamp": "2024-11-27T09:47:10.121028"
+}
